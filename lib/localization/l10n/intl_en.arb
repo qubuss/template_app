@@ -1,0 +1,8 @@
+{
+  "characters_minimum_leading": "Not enough characters",
+  "email": "E-mail",
+  "email_enter_valid": "Enter valid e-mail",
+  "field_cannot_be_empty": "Field cannot be empty",
+  "login": "Login",
+  "password": "Password"
+}

@@ -1,0 +1,8 @@
+{
+  "characters_minimum_leading": "Za mało znaków",
+  "email": "E-mail",
+  "email_enter_valid": "Wprowadż poprawny adres e-mail",
+  "field_cannot_be_empty": "Nie moze być puste",
+  "login": "Zaloguj",
+  "password": "Hasło"
+}
